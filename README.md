@@ -13,13 +13,13 @@ pin: 2222
 
 E-Commerce 
 https://imaginative-swan-3b6b96.netlify.app
-
+---------
 Dice-game
 https://peaceful-gaufre-ec53c9.netlify.app
-
+---------
 Restaurant website
 https://reverent-yalow-a57109.netlify.app
-
+---------
 Parid consultin
 https://paridconsulting.al/
 
