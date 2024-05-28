@@ -11,10 +11,6 @@ pin: 1111
 user2: jd
 pin: 2222
 ---------
-
-E-Commerce 
-https://imaginative-swan-3b6b96.netlify.app
----------
 Dice-game
 https://peaceful-gaufre-ec53c9.netlify.app
 ---------
